@@ -1,7 +1,7 @@
 const input = require('prompt-sync')();
 
 let score = 0;
-let maxQuestions = 10;
+const maxQuestions = 10;
 
 console.log("Subtraction problem\n");
 console.log("Note: You have 10 subtraction questions.");
